@@ -1,0 +1,37 @@
+.jumbo-center {
+  font-family: serif;
+  color: black;
+  background-color: white;
+  opacity: .9;
+}
+
+/* .jumbotron {
+  background-color: transparent;
+} */
+
+.jumbo-bg {
+  background-image: url(https://lh3.googleusercontent.com/ygmg9AV3lrOKFxnRZg-WQCAyH4QbKbCw_M9i8OctWdkDAIESaDAqrUImZacSUckjuQVTuSOjaRxNWlvXwjuSe9WMawyjgKdvodxif23TPLAGgXm3BJrlhBDL0V2Gv0KkDtIO6j1StxAPSRduN0_9f1V6MVlU6Aq_JpPgLQktL3kVXd06XpN7ByTzr8Uf2E1itnlGbPkqH82nIBvTygGaDDh1SSp-QlqqXjFTlZbAzNgWVhd6R-Si4bPVI-jofEWIjORTDjykG6twsWzxycBRY8XfMHafQwoI4_2W40qtnPO09S1yrmVutru55R10Qfxjiy8Ke5ib6rjNbKm5lyJ5mTrNAknlGB_e79sPwgnvKKQIl-sAcwFMSp7DmCHcT0Gv0uq-2Z5vn-xyTlmbjiEL0-L_Urc8kgpsu6oMuYQOAFC3-fxY0ygNHTdb8BtMRB49AYqiAPyydSEqDJwCZIlNUwpxjC-A15B49lNA_j_tNgAmBShpJRYTWVv9CC4xiTLwgEYwXwru9Gw_Wxu6Iioa0F-T6SGa6k1z9QLvSFjK9TfNxhwtyysoIsitJqnY1EwOj4RZN0SmJelerxt-9NIXE1lEZYjVbLFVh27cLfPv4Vvokm0fW7wAn16ZA1wgfNveax6utohbVz0JbOwBwFaWKa6v9q94t_HJlftjEmFreGo2ePS50g8ejgNg=w2190-h1642-no);
+  background-size: cover;
+}
+
+nav {
+  font-family: serif;
+}
+
+.navbar {
+  background-color: yellow;
+}
+
+body {
+  color: black;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+  color: black;
+}
+
+h1 {
+  font-family: serif;
+  color: black;
+  opacity: 1;
+}
