@@ -5,8 +5,12 @@
   opacity: .9;
 }
 
-.jumbo-bg {
-  background-image: url(https://live.staticflickr.com/5522/10818756103_e8ee01e1a5_b.jpg);
+.jumbo-bg-intro {
+  background-color: transparent;
+}
+
+.jumbo-bg-bio {
+  background-color: transparent;
   background-size: cover;
 }
 
@@ -20,7 +24,12 @@ nav {
 
 body {
   color: black;
-  background-color: #3D3D3D;
+  /* background-color: #3D3D3D; */
+  background: url(https://live.staticflickr.com/5522/10818756103_e8ee01e1a5_b.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
 
 .navbar .navbar-nav .nav-item .nav-link {
@@ -33,12 +42,17 @@ h1 {
   opacity: 1;
 }
 
-.row .col {
+.jumbo-bg-pub {
+  background-color: #3D3D3D;
+  background-size: cover;
+}
+
+.row .col-lg-6 {
   text-align: center;
 }
 
-.col img {
-  width: 500px;
+.col-lg-6 img {
+  width: 100%;
 }
 
 .centered {
