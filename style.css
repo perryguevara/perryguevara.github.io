@@ -68,3 +68,20 @@ h1 {
   height: 60%;
   font-size: 125%;
 }
+
+.page-footer {
+  background-color: black;
+}
+
+.tw-ic {
+  color: yellow;
+}
+
+.mail {
+  color: yellow;
+}
+
+.footer-copyright {
+  background-color: yellow;
+  color: yellow;
+}
