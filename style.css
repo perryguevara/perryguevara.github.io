@@ -25,7 +25,35 @@ nav {
 body {
   color: black;
   /* background-color: #3D3D3D; */
-  background: url(https://live.staticflickr.com/5522/10818756103_e8ee01e1a5_b.jpg) no-repeat center center fixed;
+  background: url(https://d13b2ieg84qqce.cloudfront.net/d58d402687ef37dbc8343ad70bd04ef6a0c6ef7a.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.teaching-body {
+  color: black;
+  background: url(https://www.commonapp.org/static/38cdf0547da291a9817e0f14c883ea38-933458b8ae4d782220059661a6a3f9fa.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+
+.research-body {
+  color: black;
+  background: url(./Hooke-Website.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.service-body {
+  color: black;
+  background: url(http://sarta.com/wp-content/uploads/2019/09/Shakespeare-Social-Justice-workshop-2019.png) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
